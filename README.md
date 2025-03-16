@@ -8,3 +8,4 @@
 - sorting the records in either ascending or descending based on the columns
 - filtering the data using group by
 - used group by clause with aggregation function like mean,mode,medain,sum,min,max,count or value_counts()
+- used this functions join or merge , sort_index , reset_index  
